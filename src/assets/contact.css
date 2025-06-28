@@ -1,0 +1,95 @@
+.Search {
+    display: block;
+    align-items: center; 
+    margin-bottom: 1rem;
+}
+.input-group-text {
+    display: flex;
+    align-items: center; 
+    margin-right: 0.5rem; 
+    background-color: #f8f9fa; 
+    border: 0.05px solid #223a4b;
+}
+
+.form-control {
+    font-weight: light;
+    border: 0.05px solid #223a4b; 
+    border-radius: 0.2rem;
+    flex: 1; 
+}
+
+.form-control:focus {
+    border-color: #082545; 
+    box-shadow: none; 
+}
+
+.form-group {
+    margin-bottom: 1rem; 
+}
+
+.form-group:last-of-type {
+    margin-bottom: 0; 
+}
+
+.btn {
+    margin-top: 1rem; 
+}
+
+.form-group label {
+    margin-bottom: 1rem;
+    font-weight: bold; /* Make labels bold */
+}
+
+.btn-primary {
+    font-weight: bold; 
+    border: 2px solid #007bff; /* Thicker border for the button */
+    border-radius: 0.25rem; 
+    margin-left:13px;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3; 
+    border-color: #0056b3; 
+}
+
+h1 {
+    margin-top:12px;
+    color: #005ebc; 
+    margin-left:13px;
+}
+
+.error-message {
+    color: red;
+    font-size: 0.875em;
+}
+
+.error-message.success {
+    color: green;
+}
+
+.error-message.error {
+    color: red;
+}
+
+.checkbox {
+    border-color: black !important;
+}
+
+.help{
+    border-color: black !important;
+}
+body.dark {
+    background-image: linear-gradient(to right,#0f0f0f, #0f0f0f, #0f0f0f); 
+    color: white;
+}
+body.dark h1{
+    color:rgb(133, 251, 211);
+}
+
+div{
+    margin-left:12px;
+}
+select{
+    border-color: black;
+}
+
