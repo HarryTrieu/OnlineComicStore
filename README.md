@@ -1,6 +1,6 @@
-#Online Comic Book Store 
+# Online Comic Book Store 
 
-Vue,HTML,CSS,Bootstrap,JS
+Using Vue,HTML,CSS,Bootstrap,JS uhh pretty sick layout and animations,at least imo idk
 
 
 
